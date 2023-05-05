@@ -1,0 +1,171 @@
+@font-face {
+    font-family: 'alex';
+    src: url("../fonts/alex.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'kaushan';
+    src: url("../fonts/kaushan.otf") format("opentype");
+}
+@font-face {
+    font-family: 'alfa';
+    src: url("../fonts/alfa.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'amaranth';
+    src: url("../fonts/amaranth.otf") format("opentype");
+}
+@font-face {
+    font-family: 'arimo';
+    src: url("../fonts/arimo.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'balgruf';
+    src: url("../fonts/balgruf.otf") format("opentype");
+}
+@font-face {
+    font-family: 'bevan';
+    src: url("../fonts/bevan.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'bitter';
+    src: url("../fonts/bitter.otf") format("opentype");
+}
+@font-face {
+    font-family: 'bpreplay';
+    src: url("../fonts/bpreplay.otf") format("opentype");
+}
+@font-face {
+    font-family: 'cabin';
+    src: url("../fonts/cabin.otf") format("opentype");
+}
+@font-face {
+    font-family: 'changa';
+    src: url("../fonts/changa.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'chivo';
+    src: url("../fonts/chivo.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'chunk';
+    src: url("../fonts/chunk.otf") format("opentype");
+}
+@font-face {
+    font-family: 'chunkprint';
+    src: url("../fonts/chunkprint.otf") format("opentype");
+}
+@font-face {
+    font-family: 'diner';
+    src: url("../fonts/diner.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'droid';
+    src: url("../fonts/droid.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'economica';
+    src: url("../fonts/economica.otf") format("opentype");
+}
+@font-face {
+    font-family: 'enigma';
+    src: url("../fonts/enigma.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'fengardo';
+    src: url("../fonts/fengardo.otf") format("opentype");
+}
+@font-face {
+    font-family: 'folks';
+    src: url("../fonts/folks.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'philosopher';
+    src: url("../fonts/philosopher.ttf") format("truetype");
+}
+article {
+    border-bottom: #795e06 solid 1px;
+}
+p {
+    font-family: 'philosopher', Arial, Helvetica, sans-serif;
+    color: gray;
+}
+h1.n1 {
+    color: #095c90;
+    font-family: 'alex', Arial, Helvetica, sans-serif;
+}
+h1.n2 {
+    color: #126405;
+    font-family: 'kaushan', Arial, Helvetica, sans-serif;
+}
+h1.n3 {
+    color: #b85504;
+    font-family: 'alfa', Arial, Helvetica, sans-serif;
+}
+h1.n4 {
+    color: #a10d0d;
+    font-family: 'amaranth', Arial, Helvetica, sans-serif;
+}
+h1.n5 {
+    color: #126405;
+    font-family: 'arimo', Arial, Helvetica, sans-serif;
+}
+h1.n6 {
+    color: #126405;
+    font-family: 'balgruf', Arial, Helvetica, sans-serif;
+}
+h1.n7 {
+    color: #126405;
+    font-family: 'bevan', Arial, Helvetica, sans-serif;
+}
+h1.n8 {
+    color: #126405;
+    font-family: 'bitter', Arial, Helvetica, sans-serif;
+}
+h1.n9 {
+    color: #126405;
+    font-family: 'bpreplay', Arial, Helvetica, sans-serif;
+}
+h1.n10 {
+    color: #126405;
+    font-family: 'cabin', Arial, Helvetica, sans-serif;
+}
+h1.n11 {
+    color: #126405;
+    font-family: 'changa', Arial, Helvetica, sans-serif;
+}
+h1.n12 {
+    color: #126405;
+    font-family: 'chivo', Arial, Helvetica, sans-serif;
+}
+h1.n13 {
+    color: #126405;
+    font-family: 'chunk', Arial, Helvetica, sans-serif;
+}
+h1.n14 {
+    color: #126405;
+    font-family: 'chunkprint', Arial, Helvetica, sans-serif;
+}
+h1.n15 {
+    color: #126405;
+    font-family: 'diner', Arial, Helvetica, sans-serif;
+}
+h1.n16 {
+    color: #126405;
+    font-family: 'droid', Arial, Helvetica, sans-serif;
+}
+h1.n17 {
+    color: #126405;
+    font-family: 'economica', Arial, Helvetica, sans-serif;
+}
+h1.n18 {
+    color: #126405;
+    font-family: 'enigma', Arial, Helvetica, sans-serif;
+}
+h1.n19 {
+    color: #126405;
+    font-family: 'fengardo', Arial, Helvetica, sans-serif;
+}
+h1.n20 {
+    color: #126405;
+    font-family: 'folks', Arial, Helvetica, sans-serif;
+}
